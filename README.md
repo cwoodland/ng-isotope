@@ -3,7 +3,7 @@ ng-isotope
 
 AngularJS directives for Isotope by Metafizzy
 
-Using current isotope available v2.0.0-beta.8 and Angular 1.2.14
+Using current isotope available v3.0.5 and Angular 1.5.0
 
 This is a working in progress. Pull requests are welcome.
 
@@ -11,7 +11,7 @@ This is a working in progress. Pull requests are welcome.
 How to use?
 ==========
 
-Install using `bower install ng-isotope`
+Install using `npm install ng-isotope-npm`
 
 Add to your head
 `isotope.pkgd.js`

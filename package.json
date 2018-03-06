@@ -1,0 +1,25 @@
+{
+  "name": "ng-isotope-npm",
+  "version": "0.0.2",
+  "description": "AngularJS directives for Isotope by Metafizzy",
+  "main": "ng-isotope.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego-vieira/ng-isotope.git"
+  },
+  "keywords": [
+    "isotope",
+    "ng-isotope",
+    "angular-isotope",
+    "ng-isotope-npm"
+  ],
+  "author": "Diego Vieira <diego@protos.inf.br>",
+  "license": "GPL 3",
+  "bugs": {
+    "url": "https://github.com/diego-vieira/ng-isotope/issues"
+  },
+  "homepage": "https://github.com/diego-vieira/ng-isotope#readme"
+}
