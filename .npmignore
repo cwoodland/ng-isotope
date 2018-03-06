@@ -1,0 +1,18 @@
+#Exclude unnecessary files
+.editorconfig
+.npmignore
+
+#Exclude all packed packages.
+*.tgz
+
+#Exclude all npm debug logs
+npm-debug.log*
+
+#Excluded Directories
+/dist/testpage
+/node_modules
+/src
+/test
+/testpage
+/testreport
+/tmp
