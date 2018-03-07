@@ -1,5 +1,8 @@
-ng-isotope
+ng-isotope-npm
 ==========
+
+_This is a direct port of [ng-isotope](https://github.com/diego-vieira/ng-isotope) to npm.
+This repo has been updated to use angular v1.5.0 and isotope v 3.0.5._
 
 AngularJS directives for Isotope by Metafizzy
 
